@@ -9,7 +9,7 @@
 
 ## About the Project
 
-![alt project banner](https://raw.githubusercontent.com/Asifcreative/Email-Templates/gh-pages/img/0001.jpg = 30%)
+![alt project banner](https://raw.githubusercontent.com/Asifcreative/Email-Templates/gh-pages/img/0001.jpg =100x)
 
 This project is Email Template built using Html and CSS
 
