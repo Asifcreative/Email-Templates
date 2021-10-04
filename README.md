@@ -8,8 +8,8 @@
 - [License](#license)
 
 ## About the Project
-<img src="https://raw.githubusercontent.com/Asifcreative/Email-Templates/gh-pages/img/0001.jpg" alt="drawing" width="200"/>
-![alt project banner](https://raw.githubusercontent.com/Asifcreative/Email-Templates/gh-pages/img/0001.jpg | width=100)
+
+![alt project banner]<img src="https://raw.githubusercontent.com/Asifcreative/Email-Templates/gh-pages/img/0001.jpg" alt="drawing" width="300"/>)
 
 This project is Email Template built using Html and CSS
 
