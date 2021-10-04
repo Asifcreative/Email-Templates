@@ -15,10 +15,6 @@ This project is Email Template built using Html and CSS
 
 - responsive
 
-## App Component
-
-![alt project component]()
-
 
 ## Credits
 
